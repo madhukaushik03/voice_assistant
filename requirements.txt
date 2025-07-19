@@ -1,0 +1,10 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+langchain
+langchain_community
+python-dotenv
+langchain_google_genai
+SpeechRecognition
+playsound
+gTTS

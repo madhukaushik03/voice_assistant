@@ -1,0 +1,132 @@
+
+--- Chunk 1 ---
+--- Page 1 ---
+Polo Café Bot
+Polo Café Bot Overview
+It is a chat bot that will provide information about the daily inventory, sales, expenses, and profit of
+the Polo Café. It is designed to take question from the users and answer these questions in simple
+English. This chatbot has a user-friendly interface that empowers Polo Café to efficiently verify and
+manage its inventory with ease.
+Key Features
+1. Daily sales of each item.
+2. Consumption of ingredients in each item.
+3. Inventory of delivered items from home or purchased by Polo Café staff members.
+4. Daily, Weekly and Monthly profit and Expenses of the items in the Café.
+5. It will provide answers in simple English.
+6. User can open the chatbot interface on web, so it is available 24x7.
+Benefits
+• Efficient: Save time and resources with quick and accurate inventory verification.
+• Enhanced User Experience: Enjoy a hassle-free interface designed for user convenience.
+• Availability: User can access this chatbot anywhere and anytime.
+Sample questions that can be asked from the chatbot
+Question 1. What are the total sales of each week in November 2023?
+Polo Café Bot answer: Week 1 Sales (November 1st - November 4th): ₹5,260
+Week 2 Sales (November 5th - November 11th): ₹9,550
+Week 3 Sales (November 12th - November 18th): ₹4,710
+Week 4 Sales (November 19th - November 25th): ₹9,390
+Week 5 Sales (November 26th - November 30th): ₹5,755
+Question 2. What was the quantity of onions utilized in November?
+Polo Café Bot answer: The total quantity of onions consumed across all items in November was
+3.155 kilograms.
+Question 3. How many bread omelettes were made On November 1st to November 4th, 2023?
+Polo Café Bot answer: 2 Bread Omelettes were whipped up from November 1st to November 4th.
+Question 4. What was the total no of cappuccinos sold In November?
+--- Page 2 ---
+Polo Café Bot answer: The November cappuccino sales figure is 56.
+Question 5. In November, what quantity of ginger was delivered to Polo Café?
+Polo Café Bot answer: 0.765 kilograms of ginger were sent to Polo Cafe in November.
+Question 6. In How many items and how much quantity of potato was consumed?
+Polo Café Bot answer: "Potatoes were consumed in the following item with its respective quantity:
+Bombay Classic Potato S/W:
+Per serving: 50 grams
+Sold: 5
+Total Potatoes used: 250 grams (0.25 kilograms)
+Potatoes were consumed in 1 item with a total quantity of 250 grams (0.25 kilograms)."
+Question 7. In How many items and how much quantity of coffee was consumed?
+Polo Café Bot answer: "
+1. Café Latte:
+Per serving: 2 shots
+Sold: 7
+Total Coffee used: 14 shots
+2. Classic Cold Coffee:
+Per serving: 2 shots
+Sold: 33
+Total Coffee used: 66 shots
+3. Cappuccino:
+Per serving: 2 shots
+Sold: 56
+Total Coffee used: 112 shots
+4. Café Americano:
+Per serving: 3 shots
+Sold: 15
+Total Coffee used: 45 shots
+5. Espresso Single:
+Per serving: 1 shot
+Sold: 0
+--- Page 3 ---
+Total Coffee used: 0 shots
+6. Espresso Double:
+Per serving: 2 shots
+Sold: 0
+Total Coffee used: 0 shots
+7. Cafe Mocha:
+Per serving: 2 shots
+Sold: 4
+Total Coffee used: 8 shots
+8. Polo Café Chilled Frappe:
+Per serving: 2 shots
+Sold: 0
+Total Coffee used: 0 shots
+Total Coffee consumed across all items: 245 shots
+Question 8. What is the count of items and the overall quantity of brownies consumed?
+Polo Café Bot answer: "Brownie was consumed in the following items with their respective quantities:
+Brownie Shake:
+Per serving: 1 piece
+Sold: 0
+Total Brownie used: 0 pieces
+Brownie:
+Per serving: 1 piece
+Sold: 2
+Total Brownie used: 2 pieces
+Brownie with Ice Cream:
+Per serving: 1 piece
+Sold: 5
+Total Brownie used: 5 pieces
+The total count of items with brownies consumed is 3, and the overall quantity of brownies consumed
+is 7 pieces.
+--- Page 4 ---
+Question 9. In how many items and how much quantity of Mayonnaise was consumed?
+Polo Café Bot answer:
+"Healthy Veggie S/W:
+Per item: 10 grams
+Sold: 12
+Total Mayonnaise used: 120 grams
+Classic Tomato Cheese S/W:
+Per item: 15 grams
+Sold: 8
+Total Mayonnaise used: 120 grams
+Polo Café Paneer S/W:
+Per item: 15 grams
+Sold: 36
+Total Mayonnaise used: 540 grams
+Bombay Classic Potato S/W:
+Per item: 15 grams
+Sold: 5
+Total Mayonnaise used: 75 grams
+Gymkhana Egg Sandwich:
+Per item: 22 grams
+Sold: 8
+Total Mayonnaise used: 176 grams
+Chicken Tikka Sandwich:
+Per item: 15 grams
+Sold: 5
+Total Mayonnaise used: 75 grams
+Polo Café Chicken Sandwich:
+Per item: 30 grams
+Sold: 1
+Total Mayonnaise used: 30 grams
+--- Page 5 ---
+Polo Chicken Salami S/W:
+Per item: 15 grams
+Sold: 6
+Total Mayonnaise used: 90 grams
