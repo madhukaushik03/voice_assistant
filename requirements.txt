@@ -5,6 +5,6 @@ langchain
 langchain_community
 python-dotenv
 langchain_google_genai
-SpeechRecognition
-playsound
+playsound==1.2.2
 gTTS
+SpeechRecognition
