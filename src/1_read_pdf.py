@@ -5,9 +5,9 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 
 # Path to PDF
-pdf_path = os.path.join("..", "data", "tasklist.pdf")  
+pdf_path = os.path.join("..", "data", "April_month_data.pdf")  
 
-# Store all extracted text here
+# Store all extracted text here 
 all_text = ""
 
 # Open the PDF
