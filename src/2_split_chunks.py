@@ -18,10 +18,10 @@ chunks = splitter.split_text(full_text)
 
 # Print some stats
 print(f"✅ Total chunks created: {len(chunks)}")
-print("\n🔍 Preview of 1st chunk:\n")
-print(chunks[0])
+# print("\n🔍 Preview of 1st chunk:\n")
+# print(chunks[0])
 
-# Optional: Save chunks for next step
+# Save chunks for next step
 with open("chunks.txt", "w", encoding="utf-8") as f:
     for i, chunk in enumerate(chunks):
         f.write(f"\n--- Chunk {i+1} ---\n{chunk}\n")
